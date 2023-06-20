@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="//https://linkedin.com/in/mahmoudaboesmaill" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20AbouEsmail-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="//linkedin.com/in/mahmoudaboesmill" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20AbouEsmail-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="//https://t.me/Abo_Omair1991" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20AbouEsmail-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
